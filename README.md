@@ -11,9 +11,11 @@ This program is an autoclicker that clicks wherever your cursor is situated and 
 
 To execute the program just execute the .exe found in the realeases section or running the code from an interpreter and executting the right hotkeys to enable or dissable the autoclicking and/or changing it's speed.
 
----
+<br>
 
-**Toggling Autoclicking**
+
+## Hotkeys
+### Toggling Autoclicking
 
 To toggle autoclicking, once the program is running, you will need to press the following hotkey:
 
@@ -21,7 +23,7 @@ To toggle autoclicking, once the program is running, you will need to press the 
 
 ---
 
-**Increase Autoclicking Speed**
+### Increase Autoclicking Speed
 
 To increase the speed of the clicking you will need to press the following hotkey:
 
@@ -29,7 +31,7 @@ To increase the speed of the clicking you will need to press the following hotke
 
 ---
 
-**Decrease Autoclicking Speed**
+### Decrease Autoclicking Speed
 
 To decrease the speed of the clicking you will need to press the following hotkey:
 
@@ -37,7 +39,7 @@ To decrease the speed of the clicking you will need to press the following hotke
 
 ---
 
-**Stopping the Program**
+### Stopping the Program
 
 To the autoclicking program you will need to press the following key:
 
