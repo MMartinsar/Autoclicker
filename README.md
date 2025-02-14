@@ -3,7 +3,7 @@
 This program is an autoclicker that clicks wherever your cursor is situated and let's you increase or decrease speed. Made specifically for those idle activities that need constant clicking or controlled movement.
 
 >[!Warning]
-> Be sure to turn it off before continuing with normal activities, it can lead to a mess...
+> Executing the program won't open anything but it will be working, be sure to turn it off before continuing with normal activities, not doing so can lead into a mess...
 
 <br>
 
